@@ -127,3 +127,16 @@ Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktiku
 - **Methods**:
   - `hitungTotalHarga()`: Menghitung total harga semua komponen
   - `displayInfo()`: Menampilkan informasi lengkap sistem
+
+---
+
+## Screenshot Program
+
+![image](https://github.com/user-attachments/assets/055529b3-cab3-4df1-be38-d6573c1944ae)
+![image](https://github.com/user-attachments/assets/015e4554-eca6-4177-9eed-76034f58fcd8)
+![image](https://github.com/user-attachments/assets/2d7bcf81-238d-4871-a1bb-78667bd48885)
+![image](https://github.com/user-attachments/assets/1ef0a833-a4a8-4b9a-8afc-01259b4e8a2d)
+
+
+
+
