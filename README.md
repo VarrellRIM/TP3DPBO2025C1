@@ -3,12 +3,10 @@
 ## Janji
 Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
----
 
 ## Diagram Kelas
 ![tp3 drawio](https://github.com/user-attachments/assets/554ecb7e-3275-42b5-b153-6f07f034d5ca)
 
----
 
 ## Penjelasan Konsep OOP yang Diimplementasikan
 
@@ -45,7 +43,6 @@ Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktiku
 - Kelas `Casing` memiliki objek-objek `Fan` (has-a relationship)
 - Komposisi memungkinkan pembuatan objek kompleks dari objek yang lebih sederhana
 
----
 
 ## Penjelasan Alur Program
 
@@ -65,7 +62,6 @@ Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktiku
    - Metode `displayInfo()` dipanggil untuk menampilkan informasi detail tentang komputer dan komponennya
    - Informasi ditampilkan secara terstruktur dengan detail untuk setiap komponen
 
----
 
 ## Penjelasan Atribut dan Methods
 
@@ -128,7 +124,6 @@ Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktiku
   - `hitungTotalHarga()`: Menghitung total harga semua komponen
   - `displayInfo()`: Menampilkan informasi lengkap sistem
 
----
 
 ## Screenshot Program
 
